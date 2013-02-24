@@ -1,0 +1,6 @@
+<!-- insert_after '#header' -->
+<% if current_page?(root_url) %>
+<div data-hook="homepage-banner" id="homepage-banner">
+  <h1>Here goes a really cool banner</h1>
+</div>
+<% end %>
