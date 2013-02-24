@@ -7,9 +7,9 @@ require "bolon_theme/version"
 Gem::Specification.new do |s|
   s.name        = "bolon_theme"
   s.version     = BolonTheme::VERSION
-  s.authors     = ["TODO: Juan Antonio Plaza"]
-  s.email       = ["TODO: jplazaarguello@gmail.com"]
-  s.homepage    = "http://www.coperni.com"
+  s.authors     = ["Juan Antonio Plaza"]
+  s.email       = ["jplazaarguello@gmail.com"]
+  s.homepage    = "http://www.twitter.com/jplazaarguello"
   s.summary     = "My first Spree theme"
   s.description = "Testing spree themes and Gems for the first time"
 
